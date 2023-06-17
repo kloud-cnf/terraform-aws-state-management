@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Contents
+
+- [0.1.0 (2023-06-16)](#010-2023-06-16)
+    - [Features](#features)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # [0.1.0](https://github.com/kloud-cnf/terraform-aws-remote-backend/compare/v0.0.0...v0.1.0) (2023-06-16)
 
 
