@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/kloud-cnf/terraform-aws-remote-backend/compare/v0.1.0...v0.1.1) (2023-06-17)
+
+
+### Bug Fixes
+
+* **release:** support terraform >= 1.5 ([5ff8e70](https://github.com/kloud-cnf/terraform-aws-remote-backend/commit/5ff8e7098cfffcb0c69a5a6b8c505bfe0af0d4f3))
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
